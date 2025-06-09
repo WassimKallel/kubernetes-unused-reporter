@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Ignore requirements.txt if using pyproject.toml
+requirements.txt
